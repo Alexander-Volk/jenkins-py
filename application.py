@@ -106,7 +106,7 @@ welcome = """
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Congratulations</h1>
+    <h1><font color=red>Congratulations <br> <font color=purple>DevOps Engineer</font></h1>
     <p>Your first AWS Elastic Beanstalk Python Application is now running on your own dedicated environment in the AWS Cloud</p>
     <p>This environment is launched with Elastic Beanstalk Python Platform</p>
   </div>
@@ -122,6 +122,8 @@ welcome = """
     <li><a href="http://docs.amazonwebservices.com/elasticbeanstalk/latest/dg/using-features.loggingS3.title.html">Working with Logs</a></li>
 
     </ul>
+    <h2>Jenkins-Python</h2>
+    <img src="image.png">
   </div>
 </body>
 </html>
